@@ -6,7 +6,7 @@ Welcome to my Elevvo Internship repository! This includes all the tasks I comple
 
 ### ✅ Task 1: Student Score Prediction
 - Predict exam scores based on study hours
-- [Go to Task 1](./Task%201%20-%20Student%20Score%20Prediction/README.md)
+- [Go to Task 1](Task 1 - Student Score Prediction)
 
 ### ✅ Task 2: [Task Name]
 - Short description
