@@ -23,7 +23,7 @@ This repo includes all the machine learning and deep learning tasks I completed,
 - 💡 Topics: Regression, Evaluation metrics  
 - ✨ Bonus: Tried Polynomial Regression
 
-🔗 [View Task 1](./Task%201%20-%20Student%20Score%20Prediction/README.md)
+🔗 [View Task 1](./Task%201%20-%20Student%20Score%20Prediction)
 
 ---
 
@@ -41,4 +41,4 @@ This repo includes all the machine learning and deep learning tasks I completed,
 - 💡 Topics: Clustering, Unsupervised Learning  
 - ✨ Bonus: Explored DBSCAN and average spending per cluster
 
-🔗 [View Task 2](./Task%202%20-%20Customer%20Segmentation/README.md)
+🔗 [View Task 2](./Task%202%20-%20Customer%20Segmentation)
